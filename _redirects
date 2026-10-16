@@ -1,0 +1,5 @@
+# The app file is too big to store on the website itself, so the download
+# button forwards to the newest file attached to a GitHub Release.
+# To publish a new version: create a new release on GitHub and attach the APK named mechi.apk.
+/downloads/mechi.apk  https://github.com/Fiancis/mechi-website/releases/latest/download/mechi.apk  302
+/download             https://github.com/Fiancis/mechi-website/releases/latest/download/mechi.apk  302
